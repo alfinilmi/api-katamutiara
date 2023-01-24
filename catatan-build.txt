@@ -1,0 +1,3 @@
+ketika selesai styling, ketik di terminal npm run build-prod
+nanti muncul chunk
+untuk mengumpulkan, zip kecuali node_module
